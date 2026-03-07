@@ -22,10 +22,10 @@ class MetasploitModule < Msf::Auxiliary
           - RFI testing when allow_url_include is enabled
           - Comprehensive reporting in Metasploit database
         },
-        'Author' => [ 'Elliot' ],
+        'Author' => [ 'h3Dr1per' ],
         'License' => MSF_LICENSE,
         'References' => [
-          [ 'URL', 'https://github.com/elliot/lfi2rce' ],
+          [ 'URL', 'https://github.com/paradoks182/lfi2rce_converter/blob/main/lfi2rce_converter.rb' ],
           [ 'CWE', '98' ],
           [ 'CWE', '73' ]
         ]
