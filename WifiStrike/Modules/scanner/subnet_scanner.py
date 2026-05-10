@@ -1,9 +1,5 @@
-"""
-WiFiStrike Subnet Scanner
-"""
-
 DESCRIPTION = "ARP subnet scanner - discover all devices on local network"
-DATE = "2026-05-04"
+DATE = "2026-05-10"
 RANK = "Good"
 AUTHOR = "WiFiStrike"
 
